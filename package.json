@@ -5,7 +5,7 @@
     "type": "git"
   },
   "main": "lib/index.js",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "An ESLint plugin to enforce sorted object keys with line-separated groups and fixable support.",
   "keywords": [
     "eslint",
@@ -17,7 +17,7 @@
   "author": "Mykyta Yaremenko",
   "license": "MIT",
   "files": [
-    "dist",
+    "lib",
     "README.md"
   ],
   "scripts": {
