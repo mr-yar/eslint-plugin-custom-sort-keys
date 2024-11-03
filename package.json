@@ -4,9 +4,8 @@
     "url": "https://github.com/mr-yar/eslint-plugin-custom-sort-keys",
     "type": "git"
   },
-  "type": "module",
   "main": "lib/index.js",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "An ESLint plugin to enforce sorted object keys with line-separated groups and fixable support.",
   "keywords": [
     "eslint",
